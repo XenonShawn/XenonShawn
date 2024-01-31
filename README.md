@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there, I'm Shawn 👋
+
+Nice to meet you! I'm a Computer Science undergraduate at the National University of Singapore.
 
 <!--
 **XenonShawn/XenonShawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
